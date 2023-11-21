@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # stateapp
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# Color-picker
+Changes the background color with relation to input
+>>>>>>> 8205936a54afd8ba785e3e42b1694357978a065f
